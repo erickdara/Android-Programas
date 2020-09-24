@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Asteroides</string>
+    <string name="inicio">Jugar</string>
+    <string name="config">Configuración</string>
+    <string name="salir">Salir</string>
+    <string name="d_adicional">Información</string>
+    <string name="asteroides">Asteroides</string>
+    <string name="contacto_erick1rg_gmail_com">Contacto: erick1rg@gmail.com</string>
+    <string name="fecha_creaci_n_21_09_2020">Fecha Creación: 21-09-2020</string>
+    <string name="app_information">APP Information</string>
+    <string name="programador_erick_rangel">Programador: Erick Rangel</string>
+    <string name="todo">TODO</string>
+
+</resources>

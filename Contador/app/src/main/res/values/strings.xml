@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="decrementa">Decrementa</string>
+    <string name="contador">Contador:</string>
+    <string name="resetear">Resetear</string>
+    <string name="incrementa">Incrementa</string>
+    <string name="Aumentar">+</string>
+    <string name="Decrementar">-</string>
+</resources>

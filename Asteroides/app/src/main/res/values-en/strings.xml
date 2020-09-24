@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Asteroids</string>
+<string name="inicio">Play</string>
+<string name="config">Configuration</string>
+<string name="salir">Exit</string>
+<string name="d_adicional">About</string>
+<string name="asteroides">Asteroids</string>
+    <string name="fecha_creaci_n_21_09_2020">Fecha Creación: 21-09-2020</string>
+    <string name="app_information">APP Information</string>
+    <string name="programador_erick_rangel">Programador: Erick Rangel</string>
+    <string name="todo">TODO</string>
+</resources>
